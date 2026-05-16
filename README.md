@@ -1,2 +1,2 @@
 # Treasure-Island-Game
-A beginner python treasure adventure game using turtle graphics and animations
+Interactive text-based adventure game with turtle graphics, ASCII art, animated fireworks and multi-path decision trees. 
